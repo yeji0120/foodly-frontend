@@ -16,15 +16,15 @@ Click below image to see our demo.
 
 
 ## 사용한 기술
-HTML
-CSS
-JavaScript
-React (Class)
-React-Router
-Sass/Scss
+- HTML
+- CSS
+- JavaScript
+- React (Class)
+- React-Router
+- Sass/Scss
 
 
 ## 맡은 부분
-Yeji Choi   : Product-detail page, Lookbook page
-Kihyun Kwun : GNB, Product page, Cart
-Eunji Hwang : Login page, SignUp page, Main page, SearchInput, Footer
+- Yeji Choi   : Product-detail page, Lookbook page
+- Kihyun Kwun : GNB, Product page, Cart
+- Eunji Hwang : Login page, SignUp page, Main page, SearchInput, Footer
